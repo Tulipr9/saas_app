@@ -11,13 +11,7 @@
     margin-bottom: 20px;
 }
 
-.cm-top-nav-bar {
-    background-color: #004578 !important;
-    margin-bottom: 0px;
-    border: 0px;
-    height:48px;
-    border-radius: 0;
-}
+
 
 .cm-menu-bar {
     background-color: #F9F9F9 !important;
@@ -39,6 +33,7 @@
 .cm-logout {
     vertical-align: middle;
     padding-left: 2px;
+
 }
 
 .placeholder {
@@ -59,16 +54,10 @@
 }
 
 .cm-logo {
-    /*border-style: none;
-    width: auto;
-    padding: 8px;
-    
-    width: 30%;*/
+    height: 7rem;
+    width: 7rem;
     border-style: none;
-    width: auto;
     margin-left: -10px;
-    padding: 8px;
-    max-height: 50px;
 }
 
 .cm-panel-default {
@@ -354,9 +343,7 @@ a.cm-dropdown-option {
 }
 
 
-.mr420 {
-    margin-right: !important;
-}
+
 .red-star {
     color: red;
 }
